@@ -40,7 +40,6 @@ A unified collection of advanced AI projects for fashion and e-commerce, integra
 
 - Each project is organized as a standalone module.
 - See each folder’s `README.md` for setup, usage, and contribution instructions.
-- [docs/](./docs/) contains cross-project architecture and integration notes.
 
 ## 🚀 Quick Start
 
