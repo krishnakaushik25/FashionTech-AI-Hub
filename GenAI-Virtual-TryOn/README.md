@@ -92,21 +92,3 @@ We welcome contributions! If you want to improve this project, please follow the
    git push origin feature/YourFeatureName
    ```
 5. Open a pull request.
-
-## License 📄
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact 📬
-
-For questions or feedback, please reach out:
-
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/YourProfile)
-
-For more information, check the [Releases](https://github.com/Ownned3389/Gen-AI-Virtual-Try-On-Clothes/releases) section.
-
----
-
-Feel free to explore the code and contribute to this exciting project! Your feedback and suggestions are always welcome. Happy coding!
