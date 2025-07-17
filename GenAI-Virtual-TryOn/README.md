@@ -2,15 +2,6 @@
 
 Welcome to the **Gen-AI Virtual Try-On Clothes** repository! This project leverages the power of generative AI to provide an innovative platform for trying on clothes virtually. Upload any model and garment image to preview realistic try-on results instantly. Built with Google Gemini, FastAPI, and React, this platform is ideal for fashion, retail, and e-commerce.
 
-## Table of Contents
-
-1. [Features](#features)
-2. [Technologies Used](#technologies-used)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Contact](#contact)
 
 ## Features 🌟
 
