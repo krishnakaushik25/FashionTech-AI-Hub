@@ -4,7 +4,7 @@ A unified collection of advanced AI projects for fashion and e-commerce, integra
 
 ---
 
-## 🧩 Project Modules
+##  Project Modules
 
 ### 1. [FashionSense-AI](./FashionSense-AI/)
 **Fashion Visual Search & Personalized Styling Assistant**  
@@ -36,12 +36,12 @@ A unified collection of advanced AI projects for fashion and e-commerce, integra
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 - Each project is organized as a standalone module.
 - See each folder’s `README.md` for setup, usage, and contribution instructions.
-
-## 🚀 Quick Start
+  
+##  Quick Start
 
 Clone this repository:
 ```bash
@@ -51,7 +51,7 @@ cd FashionTech-AI-Hub
 
 Follow setup instructions in each project folder.
 
-🌟 Why this Suite?
+ Why this Suite?
 This collection enables:
 
 - Plug-and-play AI-powered fashion and e-commerce workflows
