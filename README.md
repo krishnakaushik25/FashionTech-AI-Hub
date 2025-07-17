@@ -48,7 +48,7 @@ Clone this repository:
 ```bash
 git clone https://github.com/yourusername/FashionTech-AI-Hub.git
 cd FashionTech-AI-Hub
-
+```
 
 Follow setup instructions in each project folder.
 
