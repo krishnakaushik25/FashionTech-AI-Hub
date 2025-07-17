@@ -1,8 +1,5 @@
 # Gen-AI Virtual Try-On Clothes 👗✨
 
-![Virtual Try-On](https://img.shields.io/badge/Download%20Latest%20Release-Get%20It%20Here-brightgreen)  
-[![GitHub Releases](https://img.shields.io/github/release/Ownned3389/Gen-AI-Virtual-Try-On-Clothes.svg)](https://github.com/Ownned3389/Gen-AI-Virtual-Try-On-Clothes/releases)
-
 Welcome to the **Gen-AI Virtual Try-On Clothes** repository! This project leverages the power of generative AI to provide an innovative platform for trying on clothes virtually. Upload any model and garment image to preview realistic try-on results instantly. Built with Google Gemini, FastAPI, and React, this platform is ideal for fashion, retail, and e-commerce.
 
 ## Table of Contents
