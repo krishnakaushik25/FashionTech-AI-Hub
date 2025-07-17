@@ -1,0 +1,34 @@
+# python cache
+__pycache__/
+
+# python env
+venv/
+
+# python build
+build/
+
+# data files
+data/
+*.csv
+*.faiss
+*.pkl
+*.pickle
+
+!src/data/
+
+
+# logs
+*.log
+
+# env files
+.env
+
+evaluation.py
+
+# nemo guardrails
+/src/core/guardrail
+/kaggle.json
+/src/recommender/recommender_chain.png
+/.vscode
+/local_ollama_test.py
+/src/recommender/flow.png
